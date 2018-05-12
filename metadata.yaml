@@ -1,0 +1,29 @@
+_repo: A-Conchological-Manual_43417
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sowerby, G. B. (George Brettingham)
+    alias: Sowerby, George Brettingham
+    birthdate: 1812
+    deathdate: 1884
+    gutenberg_agent_id: '42126'
+    url: http://www.gutenberg.org/2009/agents/42126
+    wikipedia: http://en.wikipedia.org/wiki/George_Brettingham_Sowerby_I
+description: ''
+gutenberg_issued: '2013-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43417'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mollusks -- Dictionaries'
+- !lcsh 'Shells -- Dictionaries'
+- !lcc 'QL'
+title: A Conchological Manual
+url: http://www.gutenberg.org/ebooks/43417
