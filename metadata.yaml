@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42126
     wikipedia: http://en.wikipedia.org/wiki/George_Brettingham_Sowerby_I
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43417#A-Conchological-Manual
 gutenberg_issued: '2013-08-07'
 gutenberg_type: Text
 identifiers:
